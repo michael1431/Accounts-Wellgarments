@@ -1,0 +1,16 @@
+/*start css for customize datatable */
+/*table.dataTable thead > tr > th.sorting_asc, table.dataTable thead > tr > th.sorting_desc, table.dataTable thead > tr > th.sorting, table.dataTable thead > tr > td.sorting_asc, table.dataTable thead > tr > td.sorting_desc, table.dataTable thead > tr > td.sorting {*/
+/*    padding-right: 30px;*/
+/*    font-size: 13px;*/
+/*    background: #5DA8DE;*/
+/*    color: #000;*/
+/*} of belows one */
+
+
+table.dataTable thead > tr > th.sorting_asc, table.dataTable thead > tr > th.sorting_desc, table.dataTable thead > tr > th.sorting, table.dataTable thead > tr > td.sorting_asc, table.dataTable thead > tr > td.sorting_desc, table.dataTable thead > tr > td.sorting {
+    padding-right: 30px;
+    font-size: 13px;
+    background: #000;
+    color: #fff;
+}
+/*end customize data table */
